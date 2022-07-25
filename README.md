@@ -1,5 +1,7 @@
 # ENSO-912-2022
 
+## Objetivo do Programa:
+
 
 ## Objetivo do Programa:
 Esse repositório tem como objetivo criar uma **calculadora**🖩  onde pode ser tiliazada por todos.
@@ -13,15 +15,17 @@ Esse repositório tem como objetivo criar uma **calculadora**🖩  onde pode ser
 
 ## Linguagem que utilizamos:
 
-## 💻 Objetivo do Programa:
-Esse repositório tem como objetivo a criação de uma **calculadora** que possa ser usada por todos 🌎
 
+## 💻 Objetivo do Programa:
+
+Esse repositório tem como objetivo a criação de uma **calculadora** que possa ser usada por todos 🌎
+Onde a calculadora irá conter as quatro operações aritméticas;
 <br>
 
 ## 🍵 Linguagem utilizada:
 
 <img src= "https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png" height = 100>
-
+Javinha
 <br>
 
 
@@ -32,6 +36,12 @@ Esse repositório tem como objetivo a criação de uma **calculadora** que possa
 - Willian Gustavo;
 
 ## 🧑 Integrantes:
+
+- Guilherme Carvalho - Subtração;
+- Willian Gustavo - Adição;
+- Gabriel Anderson - Divisão;
+- Kelven Fabrício - Multiplicação.
+
 
  Equipe the champs
 
