@@ -19,4 +19,4 @@ Esse repositório tem como objetivo a criação de uma **calculadora** que possa
 - Gabriel Anderson;
 - Kelven Fabrício.
 
-Mensagem/grito de guerra: AUh! Auh! 300tooos quem somos? Auh! auh!
+<br>MENSAGEM/GRITO DE GUERRA:</br> 300tuuS QUEM SOMOS? AUH! AUH!
