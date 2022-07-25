@@ -11,7 +11,12 @@ Esse repositório tem como objetivo a criação de uma **calculadora** que possa
 <br>
 
 ## 🧑 Integrantes:
+
+ Equipe the champs
+
 - Guilherme Carvalho;
 - Willian Gustavo;
 - Gabriel Anderson;
 - Kelven Fabrício.
+
+Mensagem/grito de guerra: AUh! Auh! 300tooos quem somos? Auh! auh!
