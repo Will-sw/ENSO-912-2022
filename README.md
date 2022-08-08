@@ -6,7 +6,7 @@ Esse repositório tem como objetivo criar uma **calculadora**🖩  onde pode ser
 <br>
 
 # Monitor responsável:
-<img src= "https://pbs.twimg.com/profile_images/1316734781464469504/CEwoqARr_400x400.jpg" height = 100
+<img src= "https://pbs.twimg.com/profile_images/1316734781464469504/CEwoqARr_400x400.jpg" height = 100/>
 
 <br>
 
