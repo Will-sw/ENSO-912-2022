@@ -1,9 +1,6 @@
 # ENSO-912-2022
 
 ## Objetivo do Programa:
-
-
-## Objetivo do Programa:
 Esse repositório tem como objetivo criar uma **calculadora**🖩  onde pode ser tiliazada por todos.
 
 <br>
@@ -12,9 +9,6 @@ Esse repositório tem como objetivo criar uma **calculadora**🖩  onde pode ser
 <img src= "https://pbs.twimg.com/profile_images/1316734781464469504/CEwoqARr_400x400.jpg" height = 100
 
 <br>
-
-## Linguagem que utilizamos:
-
 
 ## 💻 Objetivo do Programa:
 
@@ -28,13 +22,6 @@ Onde a calculadora irá conter as quatro operações aritméticas;
 Javinha
 <br>
 
-
-## Integrantes do grupo🧍:
-- Gabriel Anderson;
-- Guilherme Carvalho;
-- Kelven Fabrício.
-- Willian Gustavo;
-
 ## 🧑 Integrantes:
 
 - Guilherme Carvalho - Subtração;
@@ -42,16 +29,6 @@ Javinha
 - Gabriel Anderson - Divisão;
 - Kelven Fabrício - Multiplicação.
 
-
- Equipe the champs
-
-- Guilherme Carvalho;
-- Willian Gustavo;
-- Gabriel Anderson;
-
-- Kelven Fabrício.
-
-- Kelven Fabrício.
 
 <br>MENSAGEM/GRITO DE GUERRA:</br> 300tuuS QUEM SOMOS? AUH! AUH!
 
