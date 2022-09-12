@@ -6,7 +6,7 @@ import io.jooby.annotations.*;
 public class Divisao {
 
     @GET
-    public double calculaSoma(@PathParam double numUm, @PathParam double numDois) {
+    public double calculaDivisao(@PathParam double numUm, @PathParam double numDois) {
         return numUm / numDois;
     }
 }
