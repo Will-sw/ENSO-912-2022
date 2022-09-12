@@ -4,7 +4,7 @@ import io.jooby.annotations.*;
 import io.jooby.exception.BadRequestException;
  
 @Path("/Multiplicacao/{op}/{op1}")
-public class Raiz {
+public class Multiplicacao {
    
     @GET
     public double calcula(@PathParam("op") String opStr, @PathParam("op1") String oqStr) {
