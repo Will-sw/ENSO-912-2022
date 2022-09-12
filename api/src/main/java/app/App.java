@@ -9,6 +9,7 @@ public class App extends Jooby {
     mvc(new Raiz());
     mvc(new Adicao());
     mvc(new Subtracao());
+    mvc(new Multiplicacao());
   }
 
   public static void main(final String[] args) {
