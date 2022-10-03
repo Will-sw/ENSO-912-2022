@@ -1,42 +1,15 @@
 -------------------------------------------------------------------------------
-Test set: app.IntegrationTest
+Test set: SubtracaoTest
 -------------------------------------------------------------------------------
-
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.34 s <<< FAILURE! - in app.IntegrationTest
-app.IntegrationTest.shouldSayHi(int)  Time elapsed: 0.294 s  <<< FAILURE!
-
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.177 s <<< FAILURE! - in app.IntegrationTest
-app.IntegrationTest.shouldSayHi(int)  Time elapsed: 0.279 s  <<< FAILURE!
-
-org.opentest4j.AssertionFailedError: 
-expected: <Welcome to Jooby!> but was: <<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<style>
-body {font-family: "open sans",sans-serif; margin-left: 20px;}
-h1 {font-weight: 300; line-height: 44px; margin: 25px 0 0 0;}
-h2 {font-size: 16px;font-weight: 300; line-height: 44px; margin: 0;}
-footer {font-weight: 300; line-height: 44px; margin-top: 10px;}
-hr {background-color: #f7f7f9;}
-div.trace {border:1px solid #e1e1e8; background-color: #f7f7f9;}
-p {padding-left: 20px;}
-p.tab {padding-left: 40px;}
-</style>
-<title>Not Found (404)</title>
-<body>
-<h1>Not Found</h1>
-<hr>
-<h2>message: /</h2>
-<h2>status code: 404</h2>
-</body>
-</html>>
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.006 s <<< FAILURE! - in SubtracaoTest
+SubtracaoTest.VerificarSubtracaoNumeroNegativ  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <-2.0> but was: <-9.0>
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
-	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
-	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
-	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1141)
-	at app.IntegrationTest.shouldSayHi(IntegrationTest.java:26)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:70)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:65)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:885)
+	at SubtracaoTest.VerificarSubtracaoNumeroNegativ(SubtracaoTest.java:26)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
