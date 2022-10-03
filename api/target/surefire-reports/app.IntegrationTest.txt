@@ -1,8 +1,13 @@
 -------------------------------------------------------------------------------
 Test set: app.IntegrationTest
 -------------------------------------------------------------------------------
+
 Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.34 s <<< FAILURE! - in app.IntegrationTest
 app.IntegrationTest.shouldSayHi(int)  Time elapsed: 0.294 s  <<< FAILURE!
+
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.177 s <<< FAILURE! - in app.IntegrationTest
+app.IntegrationTest.shouldSayHi(int)  Time elapsed: 0.279 s  <<< FAILURE!
+
 org.opentest4j.AssertionFailedError: 
 expected: <Welcome to Jooby!> but was: <<!doctype html>
 <html>
