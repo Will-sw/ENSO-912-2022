@@ -1,6 +1,6 @@
-app.Subtracao$Module
 app.Divisao$Module
-app.Index$Module
-app.Multiplicacao$Module
 app.Adicao$Module
+app.Index$Module
+app.Subtracao$Module
+app.Multiplicacao$Module
 
