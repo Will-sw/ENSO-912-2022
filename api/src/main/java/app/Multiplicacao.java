@@ -1,4 +1,4 @@
-package vs;
+package app;
  
 import io.jooby.annotations.*;
 import io.jooby.exception.BadRequestException;
